@@ -8,8 +8,8 @@
 | 목차 | 내용 |
 |:---:|:---:|
 | 1 |  [Section 1. JPA 소개](https://koeyhk.tistory.com/2) |
-| 2 | [Section 2. JPA 시작하기]() |
-| 3 | [Section 3. 영속성 관리]() |
+| 2 | [Section 2. JPA 시작하기](https://koeyhk.tistory.com/3) |
+| 3 | [Section 3. 영속성 관리](https://koeyhk.tistory.com/4) |
 | 4 | [Section 4. 엔티티 매핑]() |
 | 5 | [Section 5. 연관관계 매핑 기초]() |
 | 6 | [Section 6. 다양한 연관관계 매핑]() |
