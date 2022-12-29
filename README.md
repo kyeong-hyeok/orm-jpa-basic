@@ -12,7 +12,7 @@
 | 3 | [Section 3. 영속성 관리](https://koeyhk.tistory.com/4) |
 | 4 | [Section 4. 엔티티 매핑](https://koeyhk.tistory.com/5) |
 | 5 | [Section 5. 연관관계 매핑 기초(1)](https://koeyhk.tistory.com/8), [(2)](https://koeyhk.tistory.com/9) |
-| 6 | [Section 6. 다양한 연관관계 매핑]() |
+| 6 | [Section 6. 다양한 연관관계 매핑](https://koeyhk.tistory.com/10) |
 | 7 | [Section 7. 고급 매핑]() |
 | 8 | [Section 8. 프록시와 연관관계 관리]() |
 | 9 | [Section 9. 값 타입]() |
