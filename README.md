@@ -17,4 +17,4 @@
 | 8 | [Section 8. 프록시와 연관관계 관리](https://koeyhk.tistory.com/12) |
 | 9 | [Section 9. 값 타입(1)](https://koeyhk.tistory.com/13), [(2)](https://koeyhk.tistory.com/14) |
 | 10 | [Section 10. 객체지향 쿼리 언어1 - 기본 문법(1)](https://koeyhk.tistory.com/15), [(2)](https://koeyhk.tistory.com/16) |
-| 10 | [Section 11. 객체지향 쿼리 언어2 - 중급 문법]() |
+| 10 | [Section 11. 객체지향 쿼리 언어2 - 중급 문법](1)(https://koeyhk.tistory.com/17) |
